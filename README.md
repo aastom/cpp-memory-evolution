@@ -4,6 +4,13 @@ This repository contains a guided learning module to demonstrate the evolution o
 
 The module is structured as a three-step journey. Each step is a self-contained program that builds on the last, clearly showing the progression of ideas and techniques.
 
+## 📚 Documentation
+
+Complete documentation, including a detailed learning roadmap and supporting references, is available in the Google Drive folder.
+
+*   [**Main Documentation Bundle**](https://docs.google.com/document/d/1GrDQS1RSVXe7Rj8j9l8hxkSyFkpmxO3Y6OzEgltVeoI/edit?usp=drivesdk)
+*   [**Project Drive Folder**](https://drive.google.com/drive/folders/1QUn4KOnYsk1cG3eQLmsw-sD3Iwuh8xnu)
+
 ## The Three-Act Narrative
 
 This repository tells a story in three parts. You should explore the directories in order to understand the narrative.
